@@ -1,0 +1,20 @@
+# Generated app bundles and symbols
+*.app/
+*.dSYM/
+.build-cache/
+.build/
+
+# Local runtime state and logs
+*.log
+status.json
+
+# macOS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Local credentials and environment files
+.env
+.env.*
+*.pem
+*.key
